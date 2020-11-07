@@ -95,6 +95,6 @@ addMouseUpDownListeners(dot, "white", "#5dff5f");
 
 var dump = getElem("dump");
 dump.addEventListener("click", function () {
-    inputText.innerHTML = "Кыздар, кандай болуптур?";
+    inputText.innerHTML = "Кандай болуптур?";
 });
 addMouseUpDownListeners(dump, "white", "#5dff5f");

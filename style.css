@@ -1,3 +1,28 @@
+.number {
+    color: rgb(103, 89, 156);
+    background-color: rgb(233, 229, 219);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    width: 90px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.symbol {
+    color: rgb(194, 108, 206);
+    background-color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    width: 90px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+
 #inputText {
     border-style: solid;
     width: 95%;
@@ -20,266 +45,5 @@
     height: 650px;
     background-color: hsl(223, 40%, 26%);
     ;
-
-}
-
-#c {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-
-}
-
-#delete {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 35px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#divide {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#multiply {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#seven {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#eight {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#nine {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#minus {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#four {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#five {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#six {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#plus {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#one {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#two {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#three {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#equal {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#zero {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#zeroo {
-    color: rgb(103, 89, 156);
-    background-color: rgb(233, 229, 219);
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#dot {
-    color: rgb(194, 108, 206);
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 45px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
-
-}
-
-#dump {
-    color: red;
-    background-color: white;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 27px;
-    text-align: center;
-    width: 90px;
-    height: 100px;
-    border-radius: 20px;
 
 }
